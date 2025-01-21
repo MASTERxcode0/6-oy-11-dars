@@ -1,6 +1,6 @@
 import React from 'react'
 import People from '../component/People'
-import Carusel from '../component/carusel'
+import Carusel from '../component/Carusel'
 import FullCard from '../component/FullCard'
 function Home() {
     return (
