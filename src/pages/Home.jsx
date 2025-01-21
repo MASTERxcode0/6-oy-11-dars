@@ -1,5 +1,5 @@
 import React from 'react'
-import People from '../component/people'
+import People from '../component/People'
 import Carusel from '../component/carusel'
 import FullCard from '../component/FullCard'
 function Home() {
