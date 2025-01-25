@@ -4,5 +4,9 @@ export default {
   theme: {
     extend: {},
   },
-  plugins: [],
+  darcMode: "class",
+  plugins: [require("daisyui")],
+  daisyui: {
+    themes: ["light"],
+  },
 };
